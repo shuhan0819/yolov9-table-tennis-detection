@@ -6,9 +6,9 @@
 ![YOLOv9](https://img.shields.io/badge/Model-YOLOv9-red)
 ![CUDA](https://img.shields.io/badge/CUDA-12.4-green)
 
----
-
 📄 [完整報告 PDF](docs/report.pdf)
+
+---
 
 ## 專案簡介
 
