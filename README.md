@@ -1,4 +1,12 @@
-# 🏓 YOLOv9 桌球場景物件偵測
+# YOLOv9 桌球場景物件偵測
+### Table Tennis Scene Object Detection with YOLOv9
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.5.1-orange)
+![YOLOv9](https://img.shields.io/badge/Model-YOLOv9-red)
+![CUDA](https://img.shields.io/badge/CUDA-12.4-green)
+
+---
 
 📄 [完整報告 PDF](docs/report.pdf)
 
